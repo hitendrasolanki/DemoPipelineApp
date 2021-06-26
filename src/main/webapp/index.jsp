@@ -3,7 +3,7 @@
 <title>Hello World!</title>
 </head>
 <body>
-	<h1>Hello World, this is java!</h1>
+	<h1>Hello CI/CD Pipeline, this is java!</h1>
 	<p>
 		It is now
 		<%= new java.util.Date() %></p>
